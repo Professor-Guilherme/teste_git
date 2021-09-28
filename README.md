@@ -1,16 +1,17 @@
-# teste_git
-Aula de testes do GIT
-
 # Arquivo de testes
 
-## Título 2
+## Este arquivo README.md é um teste:
 
-- Lista1
-- Lista2
-- Lista3
+- Teste 1
+- Teste 2
+- Teste 3
+- Item novo
 
-## Título 2
+## Lista
 
-1. Teste1
-2. Teste2
-3. Número 3
+1 - Lista1
+2 - Lista2
+3 - Novo Lista
+
+
+alteração
